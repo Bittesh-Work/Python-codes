@@ -19,5 +19,7 @@ def run_test(questions):
             score+= 1
     print ("You got " + str(score) + "/" + str(len(questions)) + " correct")
     print("hallo")
+    print("gadha")
+
 
 run_test(questions) 
